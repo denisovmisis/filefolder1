@@ -12,7 +12,7 @@ List of projects:
 ***
 
 Place image
-?[Description](photos/caps.png)
+![Description](photos/caps.png)
 ***
 
 ### Students
